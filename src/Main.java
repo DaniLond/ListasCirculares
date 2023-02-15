@@ -7,7 +7,7 @@ public class Main {
         // Agregar al principio
         list.addNode(new Node("Z"));
 
-        list.addNode(new Node("M"))
+        list.addNode(new Node("M"));
 
 
 
